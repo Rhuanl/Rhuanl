@@ -10,4 +10,4 @@ Meu nome é Rhuan
 ### @rhuan.carvalho@escola.pr.gov.br
 ### @rh_ducorte
 
-![descrição do GIF](https://tenor.com/bTRKJ.gif)
+![.](https://tenor.com/bTRKJ.gif)
