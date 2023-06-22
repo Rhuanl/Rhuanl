@@ -8,6 +8,5 @@ Meu nome é Rhuan
 
 ### Você pode entrar em contato comigo 📫
 ### @rhuan.carvalho@escola.pr.gov.br
-### @rh_ducorte
 
-![.](https://tenor.com/bTRKJ.gif)
+[Imagem](https://tenor.com/bTRKJ.gif)!
