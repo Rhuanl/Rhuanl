@@ -10,3 +10,5 @@ Meu nome é Rhuan
 ### @rhuan.carvalho@escola.pr.gov.br
 
 [ALURA](https://cursos.alura.com.br/)!
+
+![](https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635)
