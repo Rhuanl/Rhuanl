@@ -9,4 +9,4 @@ Meu nome é Rhuan
 ### Você pode entrar em contato comigo 📫
 ### @rhuan.carvalho@escola.pr.gov.br
 
-[Imagem](https://tenor.com/bTRKJ.gif)!
+[ALURA](https://cursos.alura.com.br/)!
