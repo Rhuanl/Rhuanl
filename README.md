@@ -11,4 +11,4 @@ Meu nome é Rhuan
 
 [ALURA](https://cursos.alura.com.br/)!
 
-![](https://tenor.com/pt-BR/view/elmer-sheep-thumbs-up-like-approved-gif-7569635)
+![](https://media.tenor.com/VG57dp4st8wAAAAC/elmer-sheep.gif)
